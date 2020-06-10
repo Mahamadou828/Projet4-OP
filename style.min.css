@@ -1,10 +1,6 @@
 @import "./icon/et-line.min.css"; 
 @import "./icon/font-awesone.min.css"; 
-@font-face {
-    font-family: 'Glyphicons Halflings';
-    src: url(./fonts/glyphicons-halflings-regular.eot);
-    src: url(./fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(./fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(./fonts/glyphicons-halflings-regular.woff) format('woff'), url(./fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(./fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
-}body{margin:0;padding:0;background:#fff;overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+body{margin:0;padding:0;background:#fff;overflow-x:hidden;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 a,button{transition:all .3s ease-in-out;outline:0!important}
 a:hover{text-decoration:none;cursor:pointer}
 #page-loading-blocs-notifaction{position:fixed;top:0;bottom:0;width:100%;z-index:100000;background:#fff url(img/pageload-spinner.gif) no-repeat center center}
